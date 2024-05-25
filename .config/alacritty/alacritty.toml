@@ -11,3 +11,4 @@ opacity = 0.95
 
 [font]
 normal = { family = "ZedMono Nerd Font Propo", style = "Regular" }
+size = 14
