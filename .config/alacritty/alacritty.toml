@@ -1,0 +1,13 @@
+import = [
+    "~/.config/alacritty/catppuccin-mocha.toml",
+    "~/.config/alacritty/keybindings.toml",
+]
+
+[window]
+padding = { x = 16, y = 16 }
+decorations = "buttonless"
+startup_mode = "Fullscreen"
+opacity = 0.95
+
+[font]
+normal = { family = "ZedMono Nerd Font Propo", style = "Regular" }
